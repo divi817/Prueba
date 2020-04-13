@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\divim\\source\\repos\\divi817\\Prueba\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\divim\\Source\\Repos\\divi817\\Prueba\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\divim\\source\\repos\\divi817\\Prueba\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\divim\\Source\\Repos\\divi817\\Prueba\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\divim\\source\\repos\\divi817\\Prueba\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\divim\\Source\\Repos\\divi817\\Prueba\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\divim\\source\\repos\\divi817\\Prueba\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Users\\divim\\Source\\Repos\\divi817\\Prueba\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\divim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\divim\\source\\repos\\divi817\\Prueba\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\divim\\Source\\Repos\\divi817\\Prueba\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
